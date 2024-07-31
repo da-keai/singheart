@@ -9,7 +9,7 @@ import webbrowser
 import streamlit as st  # 导入Streamlit库，用于创建Web应用
 # import streamlit_analytics
 from streamlit_modal import Modal  # 导入streamlit_modal库，用于创建模态窗口
-import streamlit_lottie  # 导入streamlit_lottie库，用于加载Lottie动画
+#import streamlit_lottie  # 导入streamlit_lottie库，用于加载Lottie动画
 import time  # 导入time库，用于时间相关操作
 import json  # 导入json库，用于处理JSON数据
 
